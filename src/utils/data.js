@@ -16,7 +16,7 @@ export const priorities = [
 ];
 export const status = [
     { title: "backlog", color: "black", icon: <TbCircleDotted /> },
-    { title: "todo", color: "lightgrey", icon: < FaRegCircle /> },
+    { title: "todo", color: "grey", icon: < FaRegCircle /> },
     { title: "in progress", color: "#EBCB62", icon: <RxHalf2 /> },
     { title: "done", color: "#606ACB", icon: <FaCheckCircle /> },
     { title: "cancelled", color: "gray", icon: <FaCircleXmark /> },
